@@ -1,5 +1,6 @@
 {
 	"rules": {
+		"SOMETHING": true,
 		"class-name": true,
 		"comment-format": [
 			true,
